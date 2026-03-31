@@ -1,0 +1,147 @@
+[
+    {
+        "id": 1,
+        "name": "Pikachu",
+        "type": "Electric",
+        "strongAgainst": [
+            "Water",
+            "Flying"
+        ],
+        "weakAgainst": [
+            "Ground"
+        ],
+        "image": "/pokemon-images/pikachu.png",
+        "basicAttack": {
+            "name": "Quick Attack",
+            "power": 10
+        },
+        "abilities": [
+            {
+                "name": "Thunderbolt",
+                "power": 25,
+                "cooldown": 2
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Charmander",
+        "type": "Fire",
+        "strongAgainst": [
+            "Grass",
+            "Ice"
+        ],
+        "weakAgainst": [
+            "Water",
+            "Rock"
+        ],
+        "image": "/pokemon-images/charmander.png",
+        "basicAttack": {
+            "name": "Scratch",
+            "power": 12
+        },
+        "abilities": [
+            {
+                "name": "Flamethrower",
+                "power": 30,
+                "cooldown": 3
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Squirtle",
+        "type": "Water",
+        "strongAgainst": [
+            "Fire",
+            "Rock"
+        ],
+        "weakAgainst": [
+            "Electric",
+            "Grass"
+        ],
+        "image": "/pokemon-images/squirtle.png",
+        "basicAttack": {
+            "name": "Tackle",
+            "power": 11
+        },
+        "abilities": [
+            {
+                "name": "Water Gun",
+                "power": 28,
+                "cooldown": 2
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Bulbasaur",
+        "type": "Grass",
+        "strongAgainst": [
+            "Water",
+            "Ground"
+        ],
+        "weakAgainst": [
+            "Fire",
+            "Flying"
+        ],
+        "image": "/pokemon-images/bulbasaur.png",
+        "basicAttack": {
+            "name": "Vine Whip",
+            "power": 10
+        },
+        "abilities": [
+            {
+                "name": "Razor Leaf",
+                "power": 27,
+                "cooldown": 2
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Eevee",
+        "type": "Normal",
+        "strongAgainst": [],
+        "weakAgainst": [
+            "Fighting"
+        ],
+        "image": "/pokemon-images/eevee.png",
+        "basicAttack": {
+            "name": "Tackle",
+            "power": 9
+        },
+        "abilities": [
+            {
+                "name": "Swift",
+                "power": 20,
+                "cooldown": 2
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Jigglypuff",
+        "type": "Fairy",
+        "strongAgainst": [
+            "Dragon",
+            "Fighting"
+        ],
+        "weakAgainst": [
+            "Steel",
+            "Poison"
+        ],
+        "image": "/pokemon-images/jigglypuff.png",
+        "basicAttack": {
+            "name": "Pound",
+            "power": 8
+        },
+        "abilities": [
+            {
+                "name": "Disarming Voice",
+                "power": 22,
+                "cooldown": 2
+            }
+        ]
+    }
+]

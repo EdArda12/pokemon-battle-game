@@ -1,0 +1,728 @@
+[
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 5
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "opponent",
+    "turns": 5
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "opponent",
+    "turns": 5
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 5
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "opponent",
+    "turns": 5
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "opponent",
+    "turns": 11
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "opponent",
+    "turns": 11
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "opponent",
+    "turns": 7
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Pikachu",
+    "winner": "opponent",
+    "turns": 10
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Pikachu",
+    "winner": "opponent",
+    "turns": 10
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 10
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "opponent",
+    "turns": 7
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Pikachu",
+    "winner": "opponent",
+    "turns": 11
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "opponent",
+    "turns": 10
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "draw",
+    "turns": 9
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "draw",
+    "turns": 13
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Pikachu",
+    "winner": "opponent",
+    "turns": 12
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 9
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "opponent",
+    "turns": 10
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 8
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 10
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 9
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 10
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Pikachu",
+    "winner": "draw",
+    "turns": 8
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Pikachu",
+    "winner": "opponent",
+    "turns": 6
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 8
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 9
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 9
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 8
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 8
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Pikachu",
+    "winner": "opponent",
+    "turns": 11
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Pikachu",
+    "winner": "opponent",
+    "turns": 12
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "opponent",
+    "turns": 9
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Pikachu",
+    "winner": "opponent",
+    "turns": 10
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Pikachu",
+    "winner": "opponent",
+    "turns": 9
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 8
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "opponent",
+    "turns": 12
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "opponent",
+    "turns": 9
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 6
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 6
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Eevee",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 8
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 6
+  },
+  {
+    "player": "Jigglypuff",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 8
+  },
+  {
+    "player": "Bulbasaur",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Jigglypuff",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 8
+  },
+  {
+    "player": "Squirtle",
+    "opponent": "Pikachu",
+    "winner": "opponent",
+    "turns": 4
+  },
+  {
+    "player": "Squirtle",
+    "opponent": "Pikachu",
+    "winner": "opponent",
+    "turns": 5
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 6
+  },
+  {
+    "player": "Jigglypuff",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 8
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 6
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Eevee",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 8
+  },
+  {
+    "player": "Eevee",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 9
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "opponent",
+    "turns": 4
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Eevee",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 8
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 6
+  },
+  {
+    "player": "Bulbasaur",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Eevee",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 8
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 6
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Pikachu",
+    "winner": "opponent",
+    "turns": 7
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 6
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Eevee",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 8
+  },
+  {
+    "player": "Jigglypuff",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 8
+  },
+  {
+    "player": "Squirtle",
+    "opponent": "Pikachu",
+    "winner": "opponent",
+    "turns": 5
+  },
+  {
+    "player": "Bulbasaur",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Bulbasaur",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Jigglypuff",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Jigglypuff",
+    "opponent": "Bulbasaur",
+    "winner": "player",
+    "turns": 8
+  },
+  {
+    "player": "Squirtle",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 3
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Jigglypuff",
+    "opponent": "Eevee",
+    "winner": "player",
+    "turns": 8
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Eevee",
+    "winner": "player",
+    "turns": 6
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Eevee",
+    "winner": "player",
+    "turns": 6
+  },
+  {
+    "player": "Pikachu",
+    "playerHP": 28,
+    "opponent": "Charmander",
+    "opponentHP": 0,
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Pikachu",
+    "playerHP": 85,
+    "opponent": "Squirtle",
+    "opponentHP": 0,
+    "winner": "player",
+    "turns": 4
+  },
+  {
+    "player": "Charmander",
+    "playerHP": 55,
+    "opponent": "Eevee",
+    "opponentHP": 0,
+    "winner": "player",
+    "turns": 6
+  },
+  {
+    "player": "Squirtle",
+    "playerHP": 16,
+    "opponent": "Jigglypuff",
+    "opponentHP": 0,
+    "winner": "player",
+    "turns": 8
+  },
+  {
+    "player": "Pikachu",
+    "playerHP": 46,
+    "opponent": "Eevee",
+    "opponentHP": 0,
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Pikachu",
+    "playerHP": 40,
+    "opponent": "Bulbasaur",
+    "opponentHP": 0,
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Charmander",
+    "playerHP": 60,
+    "opponent": "Jigglypuff",
+    "opponentHP": 0,
+    "winner": "player",
+    "turns": 6
+  },
+  {
+    "player": "Charmander",
+    "playerHP": 90,
+    "opponent": "Bulbasaur",
+    "opponentHP": 0,
+    "winner": "player",
+    "turns": 3
+  },
+  {
+    "player": "Charmander",
+    "playerHP": 90,
+    "opponent": "Bulbasaur",
+    "opponentHP": 0,
+    "winner": "player",
+    "turns": 3
+  },
+  {
+    "player": "Pikachu",
+    "playerHP": 85,
+    "opponent": "Squirtle",
+    "opponentHP": 0,
+    "winner": "player",
+    "turns": 4
+  },
+  {
+    "player": "Charmander",
+    "playerHP": 60,
+    "opponent": "Jigglypuff",
+    "opponentHP": 0,
+    "winner": "player",
+    "turns": 6
+  },
+  {
+    "player": "Eevee",
+    "playerHP": 30,
+    "opponent": "Pikachu",
+    "opponentHP": 0,
+    "winner": "player",
+    "turns": 8
+  }
+]
